@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<beans>
-	<bean id="userDao" class="com.itheima.store.dao.daoimp.UserDaoImp"></bean>
-	<bean id="productDao" class="com.itheima.store.dao.daoimp.ProductDaoImp"></bean>
-	<bean id="categoryDao" class="com.itheima.store.dao.daoimp.CategoryDaoImp"></bean>
-</beans>
